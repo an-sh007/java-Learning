@@ -20,6 +20,6 @@ public class SimpleCalculator {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 
         // Close the scanner to free up system resources
-        inputReader.close();
+        inputReader.close(); trg
     }
 }
