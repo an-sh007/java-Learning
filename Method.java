@@ -13,6 +13,7 @@ System.out.println("heyyy");
         int a=10;
         int b=19;
         System.out.println("the sssum is   "+(a+b));
+        test();
     }
     
 }
